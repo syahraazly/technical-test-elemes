@@ -1,0 +1,96 @@
+
+@font-face {
+  font-family: 'Rubik';
+  src: url('./fonts/Rubik/Rubik-SemiBold.eot');
+  src: url('./fonts/Rubik/Rubik-SemiBold.eot?#iefix') format('embedded-opentype'),
+      url('./fonts/Rubik/Rubik-SemiBold.woff2') format('woff2'),
+      url('./fonts/Rubik/Rubik-SemiBold.woff') format('woff'),
+      url('./fonts/Rubik/Rubik-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url('./fonts/Rubik/Rubik-Medium.eot');
+  src: url('./fonts/Rubik/Rubik-Medium.eot?#iefix') format('embedded-opentype'),
+      url('./fonts/Rubik/Rubik-Medium.woff2') format('woff2'),
+      url('./fonts/Rubik/Rubik-Medium.woff') format('woff'),
+      url('./fonts/Rubik/Rubik-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url('./fonts/Rubik/Rubik-Regular.eot');
+  src: url('./fonts/Rubik/Rubik-Regular.eot?#iefix') format('embedded-opentype'),
+      url('./fonts/Rubik/Rubik-Regular.woff2') format('woff2'),
+      url('./fonts/Rubik/Rubik-Regular.woff') format('woff'),
+      url('./fonts/Rubik/Rubik-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url('./fonts/Rubik/Rubik-Bold.eot');
+  src: url('./fonts/Rubik/Rubik-Bold.eot?#iefix') format('embedded-opentype'),
+      url('./fonts/Rubik/Rubik-Bold.woff2') format('woff2'),
+      url('./fonts/Rubik/Rubik-Bold.woff') format('woff'),
+      url('./fonts/Rubik/Rubik-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./fonts/Open-Sans/OpenSansCondensed-Medium.eot');
+  src: url('./fonts/Open-Sans/OpenSansCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+      url('./fonts/Open-Sans/OpenSansCondensed-Medium.woff2') format('woff2'),
+      url('./fonts/Open-Sans/OpenSansCondensed-Medium.woff') format('woff'),
+      url('./fonts/Open-Sans/OpenSansCondensed-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./fonts/Open-Sans/OpenSansCondensed-Bold.eot');
+  src: url('./fonts/Open-Sans/OpenSansCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+      url('./fonts/Open-Sans/OpenSansCondensed-Bold.woff2') format('woff2'),
+      url('./fonts/Open-Sans/OpenSansCondensed-Bold.woff') format('woff'),
+      url('./fonts/Open-Sans/OpenSansCondensed-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./fonts/Open-Sans/OpenSansCondensed-Regular.eot');
+  src: url('./fonts/Open-Sans/OpenSansCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+      url('./fonts/Open-Sans/OpenSansCondensed-Regular.woff2') format('woff2'),
+      url('./fonts/Open-Sans/OpenSansCondensed-Regular.woff') format('woff'),
+      url('./fonts/Open-Sans/OpenSansCondensed-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./fonts/Open-Sans/OpenSansCondensed-SemiBold.eot');
+  src: url('./fonts/Open-Sans/OpenSansCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+      url('./fonts/Open-Sans/OpenSansCondensed-SemiBold.woff2') format('woff2'),
+      url('./fonts/Open-Sans/OpenSansCondensed-SemiBold.woff') format('woff'),
+      url('./fonts/Open-Sans/OpenSansCondensed-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
