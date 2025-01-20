@@ -1,0 +1,26 @@
+.vueperslides.vueperslides--ready .vueperslides__inner .vueperslides__parallax-wrapper {
+  padding-bottom: 215px !important;
+  overflow: visible !important;
+}
+.vueperslides.vueperslides--ready .vueperslides__inner .vueperslides__arrows--outside{
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+}
+.vueperslides.vueperslides--ready .vueperslides__inner .vueperslides__arrows--outside .vueperslides__arrow{
+  position: static;
+  transform: none;
+}
+.vueperslides.vueperslides--ready .vueperslides__inner .vueperslides__parallax-wrapper .vueperslides__track {
+  overflow: visible !important;
+}
+.vueperslides.vueperslides--ready .vueperslides__inner .vueperslides__parallax-wrapper .vueperslide{
+  width: auto !important;
+  margin-right: 10px !important;
+}
+.vueperslides.vueperslides--ready .vueperslides__inner .vueperslides__parallax-wrapper .vueperslide.vueperslide--active .carousel-card{
+  max-height: 195px;
+}
+.vueperslides.vueperslides--ready .vueperslides__inner .vueperslides__parallax-wrapper .vueperslide.vueperslide--active .carousel-card:before{
+  opacity: 5%;
+}
